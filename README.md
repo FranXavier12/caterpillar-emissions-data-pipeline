@@ -40,6 +40,7 @@ The repository includes:
 caterpillar-emissions-tracker/
 ├─ README.md
 ├─ .gitignore
+├─ LICENSE
 ├─ docs/
 │  ├─ Database_Design_Document.docx
 │  ├─ Database_ERD.pdf
@@ -60,7 +61,7 @@ caterpillar-emissions-tracker/
 │     ├─ Report_6.jpg
 │     └─ Report_7.jpg
 ├─ sql/
-│  ├─ README.md
+│  ├─ SQL_README.md
 │  ├─ schema/
 │  │  ├─ CREATE_TABLE_queries.sql
 │  │  └─ INSERT_STATEMENTS.sql
