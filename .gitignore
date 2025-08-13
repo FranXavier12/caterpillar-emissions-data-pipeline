@@ -1,0 +1,42 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# SQL and DB backup files
+*.bak
+*.sql~
+*.sqlite
+*.db
+*.db-journal
+
+# IDE/project files
+.vscode/
+.idea/
+*.iml
+
+# Python cache (if any scripts are added later)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# MacOS specific
+._*
+
+# Node / npm artifacts (in case of frontend work)
+node_modules/
+
+# Environment / sensitive files
+.env
+.env.local
+.env.*
